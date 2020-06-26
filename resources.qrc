@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>SuitView.qml</file>
+    </qresource>
+</RCC>
